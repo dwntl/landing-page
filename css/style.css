@@ -1,0 +1,146 @@
+/* Dark Blue Nav */
+nav {
+    background-color: #A9ADAF;
+
+    padding: 8px;
+    padding-left: 200px;
+    padding-right: 200px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    outline: 1px solid red;
+}
+
+ul {
+    list-style-type: none;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li {
+    /* outline: 1px solid green; */
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+/* Dark Blue Main */
+.hero {
+    background-color: #757c7f;
+
+    display: flex;
+}
+
+.hero-text {
+    padding: 75px;
+    padding-left: 200px;
+}
+
+.hero-image {
+    padding: 75px;
+    padding-right: 200px;
+}
+
+/* White */
+h2 {
+    padding: 20px;
+    margin: 25px;
+    margin-top: 50px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.rando-box {
+    margin-bottom: 50px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.rando-box-info {
+    width: 160px;
+    height: auto;
+    margin: 25px;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Grey */
+.quote-box {
+    background-color: #E4E7EB;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote {
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.quote-name {
+    margin-right: 300px;
+    margin-bottom: 100px;
+
+    display: flex;
+    margin-left: auto;
+}
+
+/* White Part 2 */
+
+.button-box {
+    outline: 1px solid red;
+    padding: 100px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.button-box-border {
+    outline: 1px solid turquoise;
+
+    padding: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.button-box-text {
+    outline: 1px solid yellow;
+    margin: 10px;
+    margin-right: 250px;
+}
+
+.button-box-button {
+    outline: 1px solid green;
+    margin: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Footer */
+
+footer {
+    background-color: #7ba4e5;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    text-align: center;
+    
+    display: flex;
+    justify-content: center;
